@@ -1,4 +1,4 @@
-<a name="Cool"></a>
+
 <details><summary>Cool</summary>
 <p>
 

@@ -1,13 +1,7 @@
-
-<details><summary>Cool</summary>
+<details><summary>Hello</summary>
 <p>
 
-<details><summary>&nbsp;&nbsp;&nbsp;&nbsp;Hello</summary>
-<p>
-
-This is a test block of text
-
-<details><summary>&nbsp;&nbsp;&nbsp;&nbsp;Worls</summary>
+<details><summary>World</summary>
 <p>
   
 More text

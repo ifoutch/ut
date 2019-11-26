@@ -1,7 +1,5 @@
-<a name="faq"></a>
-<a name="how-it-works"></a>
-<a name="macro"></a>
-<details><summary>FAQ</summary>
+<a name="Cool"></a>
+<details><summary>Cool</summary>
 <p>
 
 <details><summary>&nbsp;&nbsp;&nbsp;&nbsp;Hello</summary>
